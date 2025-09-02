@@ -33,7 +33,7 @@
 ## Implementation results
 
 ### Demo: Synchronous client update
-![demo: synchronous update](images/demo_synchronous_update.mp4)
+[![Demo: Synchronous client update](https://img.youtube.com/vi/QWrSiwbrUHI/0.jpg)](https://www.youtube.com/shorts/QWrSiwbrUHI)
 
 ### Demo: New client initialization
-![demo: client initialization](images/demo_client_initialization.mp4)
+[![Demo: New client initialization](https://img.youtube.com/vi/1-benm0UdyA/0.jpg)](https://www.youtube.com/shorts/1-benm0UdyA)
