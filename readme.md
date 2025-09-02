@@ -1,5 +1,7 @@
 # Distributed System using the CAN Protocol
 
+## RPTU : Embedded Systems Lab : SS 2025
+
 - This is a prototype of a simple distributed system with two clients.
 - Communication is handled via the CAN protocol.
 - The system can be easily extended to support multiple clients.
