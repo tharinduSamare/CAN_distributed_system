@@ -34,8 +34,8 @@
 
 ## Implementation results
 
-### Demo: Synchronous client update
+### Demo video: Synchronous client update
 [![Demo: Synchronous client update](https://img.youtube.com/vi/QWrSiwbrUHI/0.jpg)](https://www.youtube.com/shorts/QWrSiwbrUHI)
 
-### Demo: New client initialization
+### Demo video: New client initialization
 [![Demo: New client initialization](https://img.youtube.com/vi/1-benm0UdyA/0.jpg)](https://www.youtube.com/shorts/1-benm0UdyA)
